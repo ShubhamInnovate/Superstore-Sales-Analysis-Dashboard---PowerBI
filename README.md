@@ -38,7 +38,7 @@ These dashboards help stakeholders track **growth, profitability, and category-w
 - Category-wise filter panel  
 
 📷 *Preview:*  
-![Category Dashboard](Category-Analysis-Sales-dashboard.png)  
+![Category Dashboard](Category-Analysis-Sales-Dashboard.png)  
 
 ---
 
