@@ -22,7 +22,7 @@ These dashboards help stakeholders track **growth, profitability, and category-w
 - Sales distribution by Category  
 
 📷 *Preview:*  
-![Sales & Profit Dashboard](Sales & Profit Analysis Dashboard.png)  
+![Sales & Profit Dashboard](Sales-&-Profit-Analysis-Dashboard.png)  
 
 ---
 
@@ -38,7 +38,7 @@ These dashboards help stakeholders track **growth, profitability, and category-w
 - Category-wise filter panel  
 
 📷 *Preview:*  
-![Category Dashboard](Category Analysis Sales dashboard.png)  
+![Category Dashboard](Category-Analysis-Sales-dashboard.png)  
 
 ---
 
