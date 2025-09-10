@@ -43,7 +43,7 @@ These dashboards help stakeholders track **growth, profitability, and category-w
 - Top customers & products contribute significantly to overall profit.  
 
 ---
-### 🔹 Quick Preview (GIF)  
+### 🔹 Quick Preview:  
 ![Dashboard Demo](Dashboard-Demo.gif)  
                                                                                                       
 ---
