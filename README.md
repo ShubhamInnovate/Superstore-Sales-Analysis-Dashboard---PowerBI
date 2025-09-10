@@ -41,6 +41,16 @@ These dashboards help stakeholders track **growth, profitability, and category-w
 ![Category Dashboard](Category-Analysis-Sales-Dashboard.png)  
 
 ---
+## 🎯 Key Insights  
+- Technology category has the **highest profit margin**.  
+- Furniture contributes good sales but **very low profit margin**.  
+- YoY growth is positive, with a **steady rise in orders**.  
+- Top customers & products contribute significantly to overall profit.  
+
+---
+### 🔹 Quick Preview (GIF)  
+![Dashboard Demo](Dashboard-Demo.gif) 
+---
 
 ## 🔹 Tools & Technologies Used  
 - **Power BI Desktop** – Dashboard design & DAX measures  
@@ -54,13 +64,7 @@ These dashboards help stakeholders track **growth, profitability, and category-w
 
 ---
 
-## 🎯 Key Insights  
-- Technology category has the **highest profit margin**.  
-- Furniture contributes good sales but **very low profit margin**.  
-- YoY growth is positive, with a **steady rise in orders**.  
-- Top customers & products contribute significantly to overall profit.  
 
----
 
 ## 📌 Highlight  
 This project demonstrates **end-to-end data visualization skills**:  
