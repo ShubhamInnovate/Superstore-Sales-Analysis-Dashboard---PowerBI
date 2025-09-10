@@ -8,15 +8,12 @@ These dashboards help stakeholders track **growth, profitability, and category-w
 
 ---
 
-## 📌 Dashboards Included  
-
 ### 1️⃣ Sales & Profit Analysis Dashboard  
 **Key Features:**  
-- Total Sales, Profit, Orders, Customers KPIs  
+- Total Sales, Profit, Orders, Customers 
 - YoY Sales Growth (%)  
-- Region & Year-wise filters (slicers)  
-- Sales by State (map visualization)  
-- Monthly Sales & Profit Trend (line chart)  
+- Region & Year-wise filters 
+- Monthly Sales & Profit Trend 
 - Top 10 Customers by Sales  
 - Top 5 Products by Profit  
 - Sales distribution by Category  
@@ -28,14 +25,12 @@ These dashboards help stakeholders track **growth, profitability, and category-w
 
 ### 2️⃣ Category Analysis Sales Dashboard  
 **Key Features:**  
-- Total Sales, Profit, Profit Margin % KPIs  
-- Category & Sub-Category Sales (Tree Map)  
-- Category-wise Profit Margin (Bar Chart)  
-- State-wise Sales by Category (Map)  
-- Category Sales % Contribution (Pie Chart)  
-- Region & Category-wise Sales (Clustered Bar Chart)  
-- Category-wise Profit & Quantity Analysis  
-- Category-wise filter panel  
+- Total Sales, Profit, Profit Margin %  
+- Category & Sub-Category Sales 
+- Category-wise Profit Margin 
+- State-wise Sales by Category  
+- Category Sales % Contribution  
+- Region & Category-wise Sales   
 
 📷 *Preview:*  
 ![Category Dashboard](Category-Analysis-Sales-Dashboard.png)  
@@ -56,24 +51,9 @@ These dashboards help stakeholders track **growth, profitability, and category-w
 ## 🔹 Tools & Technologies Used  
 - **Power BI Desktop** – Dashboard design & DAX measures  
 - **Data Source:** Sample Superstore Dataset (Sales & Orders Data)  
-- **DAX Measures Used:**  
-  - Total Sales  
-  - Total Profit  
-  - Profit Margin %  
-  - YoY Sales Growth %  
-  - Category-wise Profit Margin %  
+- **DAX Measures Used:**   
 
 ---
-
-
-
-## 📌 Highlight  
-This project demonstrates **end-to-end data visualization skills**:  
-✔ Data Cleaning & Transformation (Power Query)  
-✔ Data Modeling & Relationships  
-✔ DAX Calculations  
-✔ Advanced Visualizations (Maps, KPIs, Trends, Drilldowns)  
-✔ Business Insights Presentation  
 
 ---
 
