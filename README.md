@@ -1,5 +1,5 @@
-# 📊 Power BI Dashboards – Sales & Category Analysis                                                            ### 🔹 Quick Preview:
-                                                                                                                ![Dashboard Demo](Dashboard-Demo.gif) 
+# 📊 Power BI Dashboards – Sales & Category Analysis                                                          ---  ### 🔹 Quick Preview:
+                                                                                                                ![Dashboard Demo](Dashboard-Demo.gif) ---
 
 ## 🔹 Project Overview  
 This repository contains **interactive Power BI dashboards** designed to analyze business performance.  
