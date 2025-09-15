@@ -8,7 +8,7 @@ These dashboards help stakeholders track **growth, profitability, and category-w
 
 
 
-### 🔹 Quick Preview:  
+ 🔹 Quick Preview:  
 ![Dashboard Demo](Dashboard-Demo.gif)  
 ---
 
