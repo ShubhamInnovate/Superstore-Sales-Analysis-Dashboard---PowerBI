@@ -6,6 +6,10 @@ The dashboards showcase **sales, profit, category trends, and customer insights*
 
 These dashboards help stakeholders track **growth, profitability, and category-wise contributions** for data-driven decision-making.  
 
+
+
+### 🔹 Quick Preview:  
+![Dashboard Demo](Dashboard-Demo.gif)  
 ---
 
 ### 1️⃣ Sales & Profit Analysis Dashboard  
@@ -43,8 +47,6 @@ These dashboards help stakeholders track **growth, profitability, and category-w
 - Top customers & products contribute significantly to overall profit.  
 
 ---
-### 🔹 Quick Preview:  
-![Dashboard Demo](Dashboard-Demo.gif)  
                                                                                                       
 ---
 
