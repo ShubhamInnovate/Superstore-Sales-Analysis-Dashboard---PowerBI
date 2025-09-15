@@ -8,7 +8,7 @@ These dashboards help stakeholders track **growth, profitability, and category-w
 
 
 
- 🔹 Quick Preview:  
+### Quick Preview:  
 ![Dashboard Demo](Dashboard-Demo.gif)  
 ---
 
@@ -22,6 +22,7 @@ These dashboards help stakeholders track **growth, profitability, and category-w
 - Top 5 Products by Profit  
 - Sales distribution by Category  
 
+---
 📷 *Preview:*  
 ![Sales & Profit Dashboard](Sales-&-Profit-Analysis-Dashboard.png)  
 
